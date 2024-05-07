@@ -1,1 +1,1 @@
-# Assignments and Project done in Learning and Memory course at IIITD
+# Assignments and Presentation done in Learning and Memory course at IIITD
